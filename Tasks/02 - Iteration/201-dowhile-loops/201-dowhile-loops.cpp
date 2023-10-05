@@ -3,6 +3,7 @@
 int main()
 {
     int i = 0;
+    //checking if i could do the thinng
 
     printf("Start while loop\n");
 
